@@ -1,0 +1,2 @@
+Что ещё можно почитать:
+• Легкое веб-тестирование с Python, Pytest и Selenium WebDriver, часть 5: создание теста Page Object Selenium при помощи Python
